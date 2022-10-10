@@ -1,0 +1,22 @@
+ReadMe for kindred home assignment.
+
+Dear kindred reviewer, please have a look at my attempt to complete the assignment.
+Unfortunately my skills with java are not as good as my swift skills.
+In this assignment I have made 3 simple automated tests:
+- simple test to check the visibility of search box.
+- simple test to check the negative search results that are completely unrelated.
+- simple test to check the positive search results.
+
+In this assignment I tried to reproduce a very simple page object model:
+- BaseClass contains setup information.
+- BaseTest contains all methods used for tests.
+- TestData contains all test data used in tests.
+- Tests contain all 3 tests
+
+If I would have more time then I would also test:
+- Minimum character search request.
+- Maximum character search request.
+- More elements to check for presence in blog page.
+- More elements to check for presence in search results page.
+- Presence or absence of images in search result depending on search request.
+- Presence and interactivity of top page menu.
